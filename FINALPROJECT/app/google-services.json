@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301947318494",
+    "project_id": "final-exam-eae52",
+    "storage_bucket": "final-exam-eae52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301947318494:android:92ded1464f8bddd08a124f",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAddXjciS3cQoYKtvlJ3aB0tjCZrmsZgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
